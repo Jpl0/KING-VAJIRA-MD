@@ -95,7 +95,7 @@ async(Suhail, citel) => {
     var inital = new Date().getTime();
     const { key } = await citel.reply('*Testing Ping!!!*');
     var final = new Date().getTime();
-    return await citel.send('*📌Pong Vajira📌*\n *' + (final - inital) + ' ms* ' , { edit: key } , "", citel );
+    return await citel.send('*📌RIKI PING📌*\n *' + (final - inital) + ' ms* ' , { edit: key } , "", citel );
 });
 
 
