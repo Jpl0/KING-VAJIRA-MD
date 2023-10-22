@@ -1,9 +1,9 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Vajira",
-    "theme": "Vajira-Md",
-    "LANGUAGE": "Sinhala",
-    "LANGCODE": "si",
+    "AUTHOR": "R!k!",
+    "theme": "R1KI-Md",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
     "STRINGS": { 
         "updater": { 
             "UPDATE": "*Believe it.\nඔබේ බොට් දැනටමත් යාවත්කාලීනයි*",
@@ -11,7 +11,7 @@
             "UPDATED_LOCAL": "*සාර්ථකව යාවත්කාලීන කරන ලදී!*"
         }, 
         "global": {     
-            "botName": "Vajira-Md",
+            "botName": "R!k!-Md",
             "body": "whatsapp User Bot", 
             "greet2" : "Thanks To Vajira Sir",
             "pic1": "https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg", 
